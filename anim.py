@@ -31,7 +31,7 @@ COMPONENT_TYPES = ["barrel", "tip", "cartridge", "cap"]
 COLORS = {
     "barrel":    "#FFD700",
     "tip":       "#FFD700",
-    "cartridge": "#2ecc71",
+    "cartridge": "#FFD700",
     "cap":       "#e74c3c",
     "pen":       "#f39c12",
 }
