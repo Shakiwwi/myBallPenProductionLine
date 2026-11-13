@@ -46,7 +46,7 @@ COMP_COLORS = {          # same as anim.py
     "barrel":    "#FFD700",
     "tip":       "#FFD700",
     "cartridge": "#FFD700",
-    "cap":       "#e74c3c",
+    "cap":       "#FFD700",
     "pen":       "#f39c12",
 }
 
